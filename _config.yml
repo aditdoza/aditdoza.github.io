@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "nahimzahur.github.io"
+title                    : "aditdoza.github.io"
 title_separator          : "-"
-name                     : &name "Nahim Bin Zahur"
+name                     : &name "Adit Doza"
 description              : &description "personal description"
-url                      : https://nahimzahur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aditdoza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nahimzahur/nahimzahur.github.io"
+repository               : "aditdoza/aditdoza.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nahim Bin Zahur"
+  name             : "Adit Doza"
   avatar           : "Nahim_0978.jpg"
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7hKokO8AAAAJ"
-  email            : "nahim.zahur@queensu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=jpUg7C8AAAAJ&hl=en"
+  email            : "aditd@med.umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
