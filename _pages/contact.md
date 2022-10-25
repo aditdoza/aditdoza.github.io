@@ -5,10 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Economics, 
-Queen's University,
-Kingston, Ontario, Canada
+Department of Family Medicine, 
+University of Michigan,
+Ann Arbor, Michigan, USA
 
-Email: [nahim.zahur@queensu.edu](nahim.zahur@queensu.edu)
+Email: [aditd@med.umich.edu](aditd@med.umich.com)
 
-Website: [https://nahimzahur.github.io/](https://nahimzahur.github.io/)
+Website: [....](....)
