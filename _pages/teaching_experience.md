@@ -5,9 +5,13 @@ permalink: /teaching_experience/
 author_profile: true
 ---
 
-I have taught and mentored about 700 students in the past 7 years. 
 
 ### TEACHING EXPERIENCE
+
+I have taught and mentored about 700 students in the past 7 years. 
+
+### Teaching Timeline
+
 Part-Time Faculty (January 2020-December2021) 
 
 Mike Ilitch School of Business, Wayne State University, Detroit, MI
