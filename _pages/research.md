@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 
-### [...........](.............)
+### [](.............)
 
 1) Vásquez, P. M., Tarraf, W., Chai, A., **Doza, A.**, Sotres-Alvarez, D., Diaz, K. M., ... & González, H. M. (2022). Accelerometer-measured latent physical activity profiles and neurocognition among middle-aged and older Hispanic/Latino adults in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). The Journals of Gerontology: Series B.
 2) **Doza, A.**, Jensen, G. A., & Tarraf, W. (2021). Racial/Ethnic Differences in Mortality in Late Midlife: Have They Narrowed in Recent Years?. The Journals of Gerontology: Series B, 76(7), 1475-1487. 
